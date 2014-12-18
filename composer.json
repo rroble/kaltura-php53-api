@@ -1,0 +1,11 @@
+{
+  "name": "rroble/kaltura-php53-api",
+  "type": "library",
+  "description": "Kaltura Client API for composer",
+  "keywords": ["kaltura", "video", "api"],
+  "homepage": "http://corp.kaltura.com/Products/Kaltura-API",
+  "license": "AGPL",
+  "autoload": {
+    "psr-0": { "Kaltura\\Client": "library" }
+  }
+}
